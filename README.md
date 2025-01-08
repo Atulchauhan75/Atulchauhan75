@@ -1,7 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 <h1 align="center">Hi 👋, I'm Atul Chauhan</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 <img align="right"  alt="Coding" width="400" src="http://javanrayan.com/images/1397/08/17/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulchauhan75&label=Profile%20views&color=0e75b6&style=flat" alt="atulchauhan75" /> </p>
@@ -10,7 +11,7 @@
 
 - 🌱 I’m currently learning **NodeJS , Machine-Learning , Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pied-rho-55.vercel.app/](https://portfolio-pied-rho-55.vercel.app/)
+- 👨‍💻 Portfolio [https://portfolio-pied-rho-55.vercel.app/](https://portfolio-pied-rho-55.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
